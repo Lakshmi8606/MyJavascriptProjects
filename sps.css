@@ -17,7 +17,7 @@ body {
   background-color: var(--very-dark-blue);
   text-align: center;
   color: var(--white);
-}
+} 
 
 h1 {
   margin: 15px 0 20px;
@@ -84,4 +84,4 @@ h1 {
 #reset-game-btn {
   display: none;
   margin: 20px auto;
-}
+}  
